@@ -68,6 +68,12 @@ body {
   background-color: #fff;
 }
 
+.whitetext {
+
+color:white;
+
+}
+
 .profile-pic {
    position: relative;
    width: 200px;
